@@ -1,4 +1,4 @@
-# ![KabileOnline](./logo.png)
+# ![KabileOnline](./static/logo.png)
 
 ### A massive multiplayer browser-based online strategy game project.
 
