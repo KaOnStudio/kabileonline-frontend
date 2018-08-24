@@ -1,4 +1,4 @@
-import ApiService from '@/common/api.service'
+import ApiService from '@/common/api'
 import JwtService from '@/common/jwt.service'
 import { LOGIN, LOGOUT, REGISTER, CHECK_AUTH, UPDATE_USER } from './actions.type'
 import { SET_AUTH, PURGE_AUTH, SET_ERROR } from './mutations.type'

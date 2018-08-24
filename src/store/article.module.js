@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import { ArticlesService, CommentsService, FavoriteService } from '@/common/api.service'
+import { ArticlesService, CommentsService, FavoriteService } from '@/common/api'
 import {
   FETCH_ARTICLE,
   FETCH_COMMENTS,

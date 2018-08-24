@@ -1,4 +1,4 @@
-import { ArticlesService, CommentsService } from '@/common/api.service'
+import { ArticlesService, CommentsService } from '@/common/api'
 import { FETCH_ARTICLE, FETCH_COMMENTS } from './actions.type'
 import { SET_ARTICLE, SET_COMMENTS } from './mutations.type'
 
