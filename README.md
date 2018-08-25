@@ -16,6 +16,7 @@ It is built using [vue-cli webpack](https://github.com/vuejs-templates/webpack) 
 ``` bash
 # install dependencies
 > npm install
+
 # serve with hot reload at localhost:8080
 > npm run dev
 ```
@@ -23,22 +24,22 @@ It is built using [vue-cli webpack](https://github.com/vuejs-templates/webpack) 
 Other commands available are:
 ``` bash
 # build for production with minification
-npm run build
+> npm run build
 
 # build for production and view the bundle analyzer report
-npm run build --report
+> npm run build --report
 
 # run single unit tests
-npm run unit
+> npm run unit
 
 # run continous unit tests
-npm run units
+> npm run units
 
 # run e2e tests
-npm run e2e
+> npm run e2e
 
 # run all tests
-npm test
+> npm test
 ```
 
 # Authors
