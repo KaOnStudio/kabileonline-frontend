@@ -1,4 +1,4 @@
-![KabileOnline](./static/logo_128x128.png)(https://kabileonline.com)
+![KabileOnline](./static/logo_128x128.png)
 
 ### A massive multiplayer browser-based online strategy game project.
 
