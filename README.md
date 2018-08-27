@@ -1,4 +1,4 @@
-# ![KabileOnline](./static/logo_128x128.png)
+![KabileOnline](./static/logo_128x128.png)(https://kabileonline.com)
 
 ### A massive multiplayer browser-based online strategy game project.
 
@@ -57,4 +57,4 @@ See also the list of [contributors](https://github.com/KaOnStudio/kabileonline/c
 
 The KaOnStudio would like to thank to all the contributors to the project, and loves the players.
 
-# ![KabileOnline](./static/logo_with_text_horizontal.svg)
+![KabileOnline](./static/logo_with_text_horizontal.svg)
